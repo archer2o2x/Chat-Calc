@@ -3,17 +3,20 @@
 A simple, powerful and lightweight calculator mod for use in modern Minecraft. Do quick maths in-game without wasting time and energy, using custom variables and functions for even more speed.
 
 ## Features
-- **Easy to Use**
+- **Easy to Use**  
   To perform a calculation, simply prefix a chat message with '='.
   Pressing '=' will automatically open the chat ready to calculate.
-- **Custom Variables and Functions**
+  
+- **Custom Variables and Functions**  
   Save any commonly used numbers and write your own reusable functions.
   Perfect for planning projects, like builds or even redstone.
   You can even use the last calculation result with the 'ans' variable for extra speed.
-- **Instant Portability**
+  
+- **Instant Portability**  
   Your saved variables and functions are stored in your config folder, allowing you to use them anywhere.
   This allows your calculator setup to follow you across all singleplayer world and multiplayer servers.
-- **Client-Side Only**
+  
+- **Client-Side Only**  
   Safe to use on any server, modded or otherwise with no server interaction ever.
 
 ## Why use this mod?
