@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: chatcalc
+Specification-Vendor: Archer2o2x
+Specification-Version: 1
+Implementation-Title: Chat Calc
+Implementation-Version: 1.0.0
+Implementation-Vendor: Archer2o2x
+Implementation-Timestamp: 2025-09-16T17:53:43+0100
+MixinConfigs: mixins.chatcalc.json
+

@@ -1,0 +1,8 @@
+#These are the defined variables available for your use.
+#Avoid single character variables, as these can be temporarily overridden by command arguments inside functions.
+variables = ["stack = 64", "pearl = 16", "chest = 27.0", "hello = 90.0", "ans = 97.0", "dchest = 54.0"]
+#These are the defined functions available for your use.
+#The function can receive arguments, starting with 'a' then 'b', all the way through to 'z'.
+#Please note that this argument ordering cannot be changed, and can interfere with variables of the same name.
+functions = ["stacks = a * stack", "pearls = a * pearl", "sum = a + b + c + d + e + f + g + h", "ticks = a * 20", "seconds = a / 20"]
+

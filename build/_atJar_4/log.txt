@@ -1,0 +1,7 @@
+Java Launcher: /home/arche/.gradle/jdks/eclipse_adoptium-17-amd64-linux/jdk-17.0.16+8/bin/java
+Arguments: '--inJar, /home/arche/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-injected.jar, --outJar, /home/arche/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.0_mapped_official_1.20.1/forge-1.20.1-47.4.0_mapped_official_1.20.1.jar, --logFile, accesstransform.log, --atFile, /home/arche/Documents/Modding Stuff/Chat Calc/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /home/arche/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.1/accesstransformers-8.2.1-fatjar.jar
+Working directory: /home/arche/Documents/Modding Stuff/Chat Calc/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
