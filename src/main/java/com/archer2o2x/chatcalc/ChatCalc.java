@@ -27,8 +27,10 @@ public class ChatCalc
 
     }
 
-    // TODO LIST
-    // - Test in a server context - Just server should be able to use the command, whilst client only should be only on client.
+    // TODO LIST - NEXT UPDATE
+    // - Allow for special builtin variables that can contain info on the current day, position, rotation, looking at block pos
+    // - Change the way the function args work to work with the special builtin functions.
+    // - Allow users to calculate in a normal message by enclosing in '[[' and ']]' tags.
 
     // Plan for features
     // '=' key by default opens a chat window with an equals sign that can be used for quick calculation.
